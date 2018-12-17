@@ -1,0 +1,432 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!D:/PROJECTS/KMS/2018/MODBUSDTU/HARDWARE/allegro/MODBUSDTU.brd!Tue Dec 18 09:54:13 2018!-191.4400!-221.9200!341.9600!209.8800!0.0001!millimeters!MODBUSDTU!10.400000 mil!2!OUT OF DATE!
+S!N822327!Q06!1!@modbusdtu.schematic1(sch_1):ins820865@primary.\npn.normal\(chips)!NPN_SOT23-3_NPN!!!F80!!!!!!!!
+S!GSM_RX!Q06!3!@modbusdtu.schematic1(sch_1):ins820865@primary.\npn.normal\(chips)!NPN_SOT23-3_NPN!!!F80!!!!!!!!
+S!N822319!Q06!2!@modbusdtu.schematic1(sch_1):ins820865@primary.\npn.normal\(chips)!NPN_SOT23-3_NPN!!!F80!!!!!!!!
+S!N822323!Q05!1!@modbusdtu.schematic1(sch_1):ins817575@primary.\npn.normal\(chips)!NPN_SOT23-3_NPN!!!F79!!!!!!!!
+S!N822315!Q05!3!@modbusdtu.schematic1(sch_1):ins817575@primary.\npn.normal\(chips)!NPN_SOT23-3_NPN!!!F79!!!!!!!!
+S!GSM_TX!Q05!2!@modbusdtu.schematic1(sch_1):ins817575@primary.\npn.normal\(chips)!NPN_SOT23-3_NPN!!!F79!!!!!!!!
+S!N733870!J01!3!@modbusdtu.schematic1(sch_1):ins733808@primary.\sim.normal\(chips)!SIM_SIM-MICRO_SIM-002-T6!!!F95!!!!!!!!
+S!N733890!J01!6!@modbusdtu.schematic1(sch_1):ins733808@primary.\sim.normal\(chips)!SIM_SIM-MICRO_SIM-002-T6!!!F95!!!!!!!!
+S!GND!J01!4!@modbusdtu.schematic1(sch_1):ins733808@primary.\sim.normal\(chips)!SIM_SIM-MICRO_SIM-002-T6!!!F95!!!!!!!!
+S!N733894!J01!2!@modbusdtu.schematic1(sch_1):ins733808@primary.\sim.normal\(chips)!SIM_SIM-MICRO_SIM-002-T6!!!F95!!!!!!!!
+S!N733834!J01!1!@modbusdtu.schematic1(sch_1):ins733808@primary.\sim.normal\(chips)!SIM_SIM-MICRO_SIM-002-T6!!!F95!!!!!!!!
+S!!J01!5!@modbusdtu.schematic1(sch_1):ins733808@primary.\sim.normal\(chips)!SIM_SIM-MICRO_SIM-002-T6!!!F95!!!!!!!!
+S!N743850!ANT01!1!@modbusdtu.schematic1(sch_1):ins743863@primary.\ant.normal\(chips)!ANT_RF-SMA_ANT!!!F146!!!!!!!!
+S!GND!ANT01!2!@modbusdtu.schematic1(sch_1):ins743863@primary.\ant.normal\(chips)!ANT_RF-SMA_ANT!!!F146!!!!!!!!
+S!VCC!C20!1!@modbusdtu.schematic1(sch_1):ins675937@primary.\cap np.normal\(chips)!CAP NP_C0603_2.2UF/16V!!!F121!!!!!!!!
+S!GND!C20!2!@modbusdtu.schematic1(sch_1):ins675937@primary.\cap np.normal\(chips)!CAP NP_C0603_2.2UF/16V!!!F121!!!!!!!!
+S!+3V3!C29!1!@modbusdtu.schematic1(sch_1):ins675969@primary.\cap np.normal\(chips)!CAP NP_C0603_2.2UF/16V!!!F120!!!!!!!!
+S!GND!C29!2!@modbusdtu.schematic1(sch_1):ins675969@primary.\cap np.normal\(chips)!CAP NP_C0603_2.2UF/16V!!!F120!!!!!!!!
+S!N675915!C30!1!@modbusdtu.schematic1(sch_1):ins675953@primary.\cap np.normal\(chips)!CAP NP_C0603_22NF!!!F115!!!!!!!!
+S!GND!C30!2!@modbusdtu.schematic1(sch_1):ins675953@primary.\cap np.normal\(chips)!CAP NP_C0603_22NF!!!F115!!!!!!!!
+S!+3V3!C25!1!@modbusdtu.schematic1(sch_1):ins679881@primary.\cap np.normal\(chips)!CAP NP_C0603_4.7UF!!!F118!!!!!!!!
+S!GND!C25!2!@modbusdtu.schematic1(sch_1):ins679881@primary.\cap np.normal\(chips)!CAP NP_C0603_4.7UF!!!F118!!!!!!!!
+S!N679655!C27!1!@modbusdtu.schematic1(sch_1):ins679929@primary.\cap np.normal\(chips)!CAP NP_C0603_1UF!!!F116!!!!!!!!
+S!GND!C27!2!@modbusdtu.schematic1(sch_1):ins679929@primary.\cap np.normal\(chips)!CAP NP_C0603_1UF!!!F116!!!!!!!!
+S!VCC!C21!1!@modbusdtu.schematic1(sch_1):ins425958@primary.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F126!!!!!!!!
+S!N425904!C21!2!@modbusdtu.schematic1(sch_1):ins425958@primary.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F126!!!!!!!!
+S!VGSM!C08!1!@modbusdtu.schematic1(sch_1):ins709818@primary.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F128!!!!!!!!
+S!GND!C08!2!@modbusdtu.schematic1(sch_1):ins709818@primary.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F128!!!!!!!!
+S!N425936!C19!1!@modbusdtu.schematic1(sch_1):ins426136@primary.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F127!!!!!!!!
+S!GND!C19!2!@modbusdtu.schematic1(sch_1):ins426136@primary.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F127!!!!!!!!
+S!OSC_OUT!C15!1!@modbusdtu.schematic1(sch_1):ins679977@primary.\cap np.normal\(chips)!CAP NP_C0603_33PF!!!F130!!!!!!!!
+S!GND!C15!2!@modbusdtu.schematic1(sch_1):ins679977@primary.\cap np.normal\(chips)!CAP NP_C0603_33PF!!!F130!!!!!!!!
+S!OSC_IN!C16!1!@modbusdtu.schematic1(sch_1):ins679993@primary.\cap np.normal\(chips)!CAP NP_C0603_33PF!!!F129!!!!!!!!
+S!GND!C16!2!@modbusdtu.schematic1(sch_1):ins679993@primary.\cap np.normal\(chips)!CAP NP_C0603_33PF!!!F129!!!!!!!!
+S!VGSM!C07!1!@modbusdtu.schematic1(sch_1):ins709802@primary.\cap np.normal\(chips)!CAP NP_C0603_33PF!!!F131!!!!!!!!
+S!GND!C07!2!@modbusdtu.schematic1(sch_1):ins709802@primary.\cap np.normal\(chips)!CAP NP_C0603_33PF!!!F131!!!!!!!!
+S!VGSM!C10!1!@modbusdtu.schematic1(sch_1):ins709751@primary.\cap pol.normal\(chips)!CAP POL_CAPE6X2R50_100UF/16V!!!F124!!!!!!!!
+S!GND!C10!2!@modbusdtu.schematic1(sch_1):ins709751@primary.\cap pol.normal\(chips)!CAP POL_CAPE6X2R50_100UF/16V!!!F124!!!!!!!!
+S!VCC!C13!1!@modbusdtu.schematic1(sch_1):ins677190@primary.\cap pol.normal\(chips)!CAP POL_CAPE6X2R50_100UF/16V!!!F123!!!!!!!!
+S!GND!C13!2!@modbusdtu.schematic1(sch_1):ins677190@primary.\cap pol.normal\(chips)!CAP POL_CAPE6X2R50_100UF/16V!!!F123!!!!!!!!
+S!N680988!C17!1!@modbusdtu.schematic1(sch_1):ins680972@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F133!!!!!!!!
+S!GND!C17!2!@modbusdtu.schematic1(sch_1):ins680972@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F133!!!!!!!!
+S!N680958!C18!1!@modbusdtu.schematic1(sch_1):ins681005@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F132!!!!!!!!
+S!GND!C18!2!@modbusdtu.schematic1(sch_1):ins681005@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F132!!!!!!!!
+S!N733954!C05!1!@modbusdtu.schematic1(sch_1):ins745528@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F135!!!!!!!!
+S!GND!C05!2!@modbusdtu.schematic1(sch_1):ins745528@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F135!!!!!!!!
+S!N733962!C06!1!@modbusdtu.schematic1(sch_1):ins745544@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F134!!!!!!!!
+S!GND!C06!2!@modbusdtu.schematic1(sch_1):ins745544@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F134!!!!!!!!
+S!N733966!C04!1!@modbusdtu.schematic1(sch_1):ins745560@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F136!!!!!!!!
+S!GND!C04!2!@modbusdtu.schematic1(sch_1):ins745560@primary.\cap np.normal\(chips)!CAP NP_C0603_22PF!!!F136!!!!!!!!
+S!N425936!C22!1!@modbusdtu.schematic1(sch_1):ins426020@primary.\cap np.normal\(chips)!CAP NP_C0603_150PF!!!F119!!!!!!!!
+S!N426114!C22!2!@modbusdtu.schematic1(sch_1):ins426020@primary.\cap np.normal\(chips)!CAP NP_C0603_150PF!!!F119!!!!!!!!
+S!N743818!C01!1!@modbusdtu.schematic1(sch_1):ins735247@primary.\cap np.normal\(chips)!CAP NP_C0603_NF!!!F145!!!!!!!!
+S!GND!C01!2!@modbusdtu.schematic1(sch_1):ins735247@primary.\cap np.normal\(chips)!CAP NP_C0603_NF!!!F145!!!!!!!!
+S!N743850!C02!1!@modbusdtu.schematic1(sch_1):ins743834@primary.\cap np.normal\(chips)!CAP NP_C0603_NF!!!F144!!!!!!!!
+S!GND!C02!2!@modbusdtu.schematic1(sch_1):ins743834@primary.\cap np.normal\(chips)!CAP NP_C0603_NF!!!F144!!!!!!!!
+S!VCC!C12!1!@modbusdtu.schematic1(sch_1):ins426184@primary.\cap np.normal\(chips)!CAP NP_C0805_10UF/10V!!!F122!!!!!!!!
+S!GND!C12!2!@modbusdtu.schematic1(sch_1):ins426184@primary.\cap np.normal\(chips)!CAP NP_C0805_10UF/10V!!!F122!!!!!!!!
+S!N425748!C31!1!@modbusdtu.schematic1(sch_1):ins677302@primary.\cap pol.normal\(chips)!CAP POL_CAPE6X2R50_47UF/50V!!!F114!!!!!!!!
+S!GND!C31!2!@modbusdtu.schematic1(sch_1):ins677302@primary.\cap pol.normal\(chips)!CAP POL_CAPE6X2R50_47UF/50V!!!F114!!!!!!!!
+S!N425748!D12!2!@modbusdtu.schematic1(sch_1):ins425818@primary.\diode schottky.normal\(chips)!DIODE SCHOTTKY_SMA_SS14!!!F104!!!!!!!!
+S!VIN!D12!1!@modbusdtu.schematic1(sch_1):ins425818@primary.\diode schottky.normal\(chips)!DIODE SCHOTTKY_SMA_SS14!!!F104!!!!!!!!
+S!N425748!D11!2!@modbusdtu.schematic1(sch_1):ins767215@primary.\diode schottky.normal\(chips)!DIODE SCHOTTKY_SMA_SS14!!!F105!!!!!!!!
+S!N767247!D11!1!@modbusdtu.schematic1(sch_1):ins767215@primary.\diode schottky.normal\(chips)!DIODE SCHOTTKY_SMA_SS14!!!F105!!!!!!!!
+S!N425772!D06!2!@modbusdtu.schematic1(sch_1):ins426064@primary.\diode schottky.normal\(chips)!DIODE SCHOTTKY_SMA_SS14!!!F106!!!!!!!!
+S!GND!D06!1!@modbusdtu.schematic1(sch_1):ins426064@primary.\diode schottky.normal\(chips)!DIODE SCHOTTKY_SMA_SS14!!!F106!!!!!!!!
+S!VGSM!D04!2!@modbusdtu.schematic1(sch_1):ins760578@primary.\diode zener.normal\(chips)!DIODE ZENER_SOD-123_MM1Z5V1!!!F107!!!!!!!!
+S!GND!D04!1!@modbusdtu.schematic1(sch_1):ins760578@primary.\diode zener.normal\(chips)!DIODE ZENER_SOD-123_MM1Z5V1!!!F107!!!!!!!!
+S!N742971!D01!2!@modbusdtu.schematic1(sch_1):ins742810@primary.\led.normal\(chips)!LED_LED0603_RED!!!F111!!!!!!!!
+S!VGSM!D01!1!@modbusdtu.schematic1(sch_1):ins742810@primary.\led.normal\(chips)!LED_LED0603_RED!!!F111!!!!!!!!
+S!N806128!D05!2!@modbusdtu.schematic1(sch_1):ins803676@primary.\led.normal\(chips)!LED_LED0603_RED!!!F110!!!!!!!!
+S!+3V3!D05!1!@modbusdtu.schematic1(sch_1):ins803676@primary.\led.normal\(chips)!LED_LED0603_RED!!!F110!!!!!!!!
+S!N743013!D02!2!@modbusdtu.schematic1(sch_1):ins742975@primary.\led.normal\(chips)!LED_LED0603_GREEN!!!F109!!!!!!!!
+S!VGSM!D02!1!@modbusdtu.schematic1(sch_1):ins742975@primary.\led.normal\(chips)!LED_LED0603_GREEN!!!F109!!!!!!!!
+S!GND!D03!1!@modbusdtu.schematic1(sch_1):ins744425@primary.\diode bi-dir.normal\(chips)!DIODE BI-DIR_R0603_PGB1010603NR!!!F108!!!!!!!!
+S!N743850!D03!2!@modbusdtu.schematic1(sch_1):ins744425@primary.\diode bi-dir.normal\(chips)!DIODE BI-DIR_R0603_PGB1010603NR!!!F108!!!!!!!!
+S!N803622!D07!2!@modbusdtu.schematic1(sch_1):ins803556@primary.\led.normal\(chips)!LED_LED-3MM_RED!!!F103!!!!!!!!
+S!+3V3!D07!1!@modbusdtu.schematic1(sch_1):ins803556@primary.\led.normal\(chips)!LED_LED-3MM_RED!!!F103!!!!!!!!
+S!N733894!DN01!1!@modbusdtu.schematic1(sch_1):ins785473@discrete.\dtvsarr_ca_5/sot23.normal\(chips)!DTVSARR_CA_5/SOT23_SOT23-6_ESDA!!!F96!!!!!!!!
+S!GND!DN01!2!@modbusdtu.schematic1(sch_1):ins785473@discrete.\dtvsarr_ca_5/sot23.normal\(chips)!DTVSARR_CA_5/SOT23_SOT23-6_ESDA!!!F96!!!!!!!!
+S!N733870!DN01!3!@modbusdtu.schematic1(sch_1):ins785473@discrete.\dtvsarr_ca_5/sot23.normal\(chips)!DTVSARR_CA_5/SOT23_SOT23-6_ESDA!!!F96!!!!!!!!
+S!N733890!DN01!4!@modbusdtu.schematic1(sch_1):ins785473@discrete.\dtvsarr_ca_5/sot23.normal\(chips)!DTVSARR_CA_5/SOT23_SOT23-6_ESDA!!!F96!!!!!!!!
+S!!DN01!5!@modbusdtu.schematic1(sch_1):ins785473@discrete.\dtvsarr_ca_5/sot23.normal\(chips)!DTVSARR_CA_5/SOT23_SOT23-6_ESDA!!!F96!!!!!!!!
+S!N733834!DN01!6!@modbusdtu.schematic1(sch_1):ins785473@discrete.\dtvsarr_ca_5/sot23.normal\(chips)!DTVSARR_CA_5/SOT23_SOT23-6_ESDA!!!F96!!!!!!!!
+S!VIN!J02!1!@modbusdtu.schematic1(sch_1):ins764003@connector.\conn pcb 8.normal\(chips)!CONN PCB 8_CON5MM-8P_CONN PCB 8!!!F94!!!!!!!!
+S!GND!J02!2!@modbusdtu.schematic1(sch_1):ins764003@connector.\conn pcb 8.normal\(chips)!CONN PCB 8_CON5MM-8P_CONN PCB 8!!!F94!!!!!!!!
+S!VIN!J02!3!@modbusdtu.schematic1(sch_1):ins764003@connector.\conn pcb 8.normal\(chips)!CONN PCB 8_CON5MM-8P_CONN PCB 8!!!F94!!!!!!!!
+S!GND!J02!4!@modbusdtu.schematic1(sch_1):ins764003@connector.\conn pcb 8.normal\(chips)!CONN PCB 8_CON5MM-8P_CONN PCB 8!!!F94!!!!!!!!
+S!GND!J02!5!@modbusdtu.schematic1(sch_1):ins764003@connector.\conn pcb 8.normal\(chips)!CONN PCB 8_CON5MM-8P_CONN PCB 8!!!F94!!!!!!!!
+S!USER_KEY!J02!6!@modbusdtu.schematic1(sch_1):ins764003@connector.\conn pcb 8.normal\(chips)!CONN PCB 8_CON5MM-8P_CONN PCB 8!!!F94!!!!!!!!
+S!RS485B!J02!7!@modbusdtu.schematic1(sch_1):ins764003@connector.\conn pcb 8.normal\(chips)!CONN PCB 8_CON5MM-8P_CONN PCB 8!!!F94!!!!!!!!
+S!RS485A!J02!8!@modbusdtu.schematic1(sch_1):ins764003@connector.\conn pcb 8.normal\(chips)!CONN PCB 8_CON5MM-8P_CONN PCB 8!!!F94!!!!!!!!
+S!GND!J03!1!@modbusdtu.schematic1(sch_1):ins780612@connector.\conn pcb 2.normal\(chips)!CONN PCB 2_XH-2A_CONN PCB 2!!!F93!!!!!!!!
+S!VBAT!J03!2!@modbusdtu.schematic1(sch_1):ins780612@connector.\conn pcb 2.normal\(chips)!CONN PCB 2_XH-2A_CONN PCB 2!!!F93!!!!!!!!
+S!N425772!L01!1!@modbusdtu.schematic1(sch_1):ins425730@primary.\inductor.normal\(chips)!INDUCTOR_INDC-SLF6028_SLO0630H1!!!F91!!!!!!!!
+S!VCC!L01!2!@modbusdtu.schematic1(sch_1):ins425730@primary.\inductor.normal\(chips)!INDUCTOR_INDC-SLF6028_SLO0630H1!!!F91!!!!!!!!
+S!+3V3!LS01!1!@modbusdtu.schematic1(sch_1):ins774885@electromechanical.\buzzer.normal\(chips)!BUZZER_BZ09B_QMB-09B-03!!!F89!!!!!!!!
+S!N774903!LS01!2!@modbusdtu.schematic1(sch_1):ins774885@electromechanical.\buzzer.normal\(chips)!BUZZER_BZ09B_QMB-09B-03!!!F89!!!!!!!!
+S!N767247!Q10!3!@modbusdtu.schematic1(sch_1):ins767273@primary.\pmos.normal\(chips)!PMOS_SOT23-3_AO3401A!!!F81!!!!!!!!
+S!N768827!Q10!1!@modbusdtu.schematic1(sch_1):ins767273@primary.\pmos.normal\(chips)!PMOS_SOT23-3_AO3401A!!!F81!!!!!!!!
+S!VBAT!Q10!2!@modbusdtu.schematic1(sch_1):ins767273@primary.\pmos.normal\(chips)!PMOS_SOT23-3_AO3401A!!!F81!!!!!!!!
+S!N768827!Q09!3!@modbusdtu.schematic1(sch_1):ins767454@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F83!!!!!!!!
+S!N768881!Q09!1!@modbusdtu.schematic1(sch_1):ins767454@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F83!!!!!!!!
+S!GND!Q09!2!@modbusdtu.schematic1(sch_1):ins767454@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F83!!!!!!!!
+S!N770522!Q07!3!@modbusdtu.schematic1(sch_1):ins770524@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F85!!!!!!!!
+S!N770558!Q07!1!@modbusdtu.schematic1(sch_1):ins770524@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F85!!!!!!!!
+S!GND!Q07!2!@modbusdtu.schematic1(sch_1):ins770524@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F85!!!!!!!!
+S!N743392!Q02!3!@modbusdtu.schematic1(sch_1):ins742920@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F87!!!!!!!!
+S!N743399!Q02!1!@modbusdtu.schematic1(sch_1):ins742920@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F87!!!!!!!!
+S!GND!Q02!2!@modbusdtu.schematic1(sch_1):ins742920@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F87!!!!!!!!
+S!N743407!Q01!3!@modbusdtu.schematic1(sch_1):ins743374@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F88!!!!!!!!
+S!N743403!Q01!1!@modbusdtu.schematic1(sch_1):ins743374@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F88!!!!!!!!
+S!GND!Q01!2!@modbusdtu.schematic1(sch_1):ins743374@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F88!!!!!!!!
+S!N743623!Q04!3!@modbusdtu.schematic1(sch_1):ins743601@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F86!!!!!!!!
+S!N743725!Q04!1!@modbusdtu.schematic1(sch_1):ins743601@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F86!!!!!!!!
+S!GND!Q04!2!@modbusdtu.schematic1(sch_1):ins743601@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F86!!!!!!!!
+S!N774903!Q08!3!@modbusdtu.schematic1(sch_1):ins774913@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F84!!!!!!!!
+S!N774939!Q08!1!@modbusdtu.schematic1(sch_1):ins774913@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F84!!!!!!!!
+S!GND!Q08!2!@modbusdtu.schematic1(sch_1):ins774913@primary.\nmos.normal\(chips)!NMOS_SOT23-3_2N7002!!!F84!!!!!!!!
+S!VGSM!Q03!3!@modbusdtu.schematic1(sch_1):ins770498@primary.\pmos.normal\(chips)!PMOS_SOT23-3_AO3401!!!F82!!!!!!!!
+S!N770522!Q03!1!@modbusdtu.schematic1(sch_1):ins770498@primary.\pmos.normal\(chips)!PMOS_SOT23-3_AO3401!!!F82!!!!!!!!
+S!VCC!Q03!2!@modbusdtu.schematic1(sch_1):ins770498@primary.\pmos.normal\(chips)!PMOS_SOT23-3_AO3401!!!F82!!!!!!!!
+S!GND!R33!1!@modbusdtu.schematic1(sch_1):ins426152@discrete.\resistor.normal\(chips)!RESISTOR_R0603_24K!!!F27!!!!!!!!
+S!N425904!R33!2!@modbusdtu.schematic1(sch_1):ins426152@discrete.\resistor.normal\(chips)!RESISTOR_R0603_24K!!!F27!!!!!!!!
+S!N733954!R07!1!@modbusdtu.schematic1(sch_1):ins733836@primary.\res.normal\(chips)!RES_R0603_51R!!!F51!!!!!!!!
+S!N733870!R07!2!@modbusdtu.schematic1(sch_1):ins733836@primary.\res.normal\(chips)!RES_R0603_51R!!!F51!!!!!!!!
+S!N733962!R08!1!@modbusdtu.schematic1(sch_1):ins733852@primary.\res.normal\(chips)!RES_R0603_51R!!!F50!!!!!!!!
+S!N733890!R08!2!@modbusdtu.schematic1(sch_1):ins733852@primary.\res.normal\(chips)!RES_R0603_51R!!!F50!!!!!!!!
+S!N733966!R06!1!@modbusdtu.schematic1(sch_1):ins733872@primary.\res.normal\(chips)!RES_R0603_51R!!!F52!!!!!!!!
+S!N733894!R06!2!@modbusdtu.schematic1(sch_1):ins733872@primary.\res.normal\(chips)!RES_R0603_51R!!!F52!!!!!!!!
+S!N743818!R01!1!@modbusdtu.schematic1(sch_1):ins743802@primary.\res.normal\(chips)!RES_R0603_0R!!!F78!!!!!!!!
+S!N743850!R01!2!@modbusdtu.schematic1(sch_1):ins743802@primary.\res.normal\(chips)!RES_R0603_0R!!!F78!!!!!!!!
+S!N768259!R61!1!@modbusdtu.schematic1(sch_1):ins768281@primary.\res.normal\(chips)!RES_R0603_33K!!!F17!!!!!!!!
+S!GND!R61!2!@modbusdtu.schematic1(sch_1):ins768281@primary.\res.normal\(chips)!RES_R0603_33K!!!F17!!!!!!!!
+S!+3V3!R56!1!@modbusdtu.schematic1(sch_1):ins682263@primary.\res.normal\(chips)!RES_R0603_4.7K!!!F23!!!!!!!!
+S!N682371!R56!2!@modbusdtu.schematic1(sch_1):ins682263@primary.\res.normal\(chips)!RES_R0603_4.7K!!!F23!!!!!!!!
+S!N682487!R42!1!@modbusdtu.schematic1(sch_1):ins682527@primary.\res.normal\(chips)!RES_R0603_4.7K!!!F24!!!!!!!!
+S!GND!R42!2!@modbusdtu.schematic1(sch_1):ins682527@primary.\res.normal\(chips)!RES_R0603_4.7K!!!F24!!!!!!!!
+S!GND!R34!1!@modbusdtu.schematic1(sch_1):ins426096@primary.\res.normal\(chips)!RES_R0603_200K!!!F26!!!!!!!!
+S!N425896!R34!2!@modbusdtu.schematic1(sch_1):ins426096@primary.\res.normal\(chips)!RES_R0603_200K!!!F26!!!!!!!!
+S!GND!U06!9!!MP2560_SOIC-8P_MP2560!!!!!!!!!!!
+S!N425872!U06!8!@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)!MP2560_SOIC-8P_MP2560!!!F4!!!!!!!!
+S!N425936!U06!3!@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)!MP2560_SOIC-8P_MP2560!!!F4!!!!!!!!
+S!!U06!2!@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)!MP2560_SOIC-8P_MP2560!!!F4!!!!!!!!
+S!N425904!U06!4!@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)!MP2560_SOIC-8P_MP2560!!!F4!!!!!!!!
+S!N425896!U06!6!@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)!MP2560_SOIC-8P_MP2560!!!F4!!!!!!!!
+S!GND!U06!5!@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)!MP2560_SOIC-8P_MP2560!!!F4!!!!!!!!
+S!N425772!U06!1!@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)!MP2560_SOIC-8P_MP2560!!!F4!!!!!!!!
+S!N425748!U06!7!@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)!MP2560_SOIC-8P_MP2560!!!F4!!!!!!!!
+S!!U02!38!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!20!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!13!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!19!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!21!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!27!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!30!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!31!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!33!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!36!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!37!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U02!8!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N743818!U02!32!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!10!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!9!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N742894!U02!41!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N743623!U02!39!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!29!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N733954!U02!16!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N733962!U02!15!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!14!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N733966!U02!17!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N733834!U02!18!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!12!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!11!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N742916!U02!42!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!4!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!5!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N737146!U02!6!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!7!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!3!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N822315!U02!2!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N822319!U02!1!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!23!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!22!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!26!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!!U02!25!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!USB_VBUS!U02!24!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!VGSM!U02!34!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!VGSM!U02!35!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!N817284!U02!40!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!VRTC!U02!28!@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)!SIM800C_SIM800C_SIM800C!!!F9!!!!!!!!
+S!GND!U01!2!@modbusdtu.schematic1(sch_1):ins763417@module.\sim800c_p0v0.normal\(chips)!SIM800C_P0V0_SIM800C_P0V0_SIM80!!!F10!!!!!!!!
+S!N763565!U01!5!@modbusdtu.schematic1(sch_1):ins763417@module.\sim800c_p0v0.normal\(chips)!SIM800C_P0V0_SIM800C_P0V0_SIM80!!!F10!!!!!!!!
+S!N763631!U01!3!@modbusdtu.schematic1(sch_1):ins763417@module.\sim800c_p0v0.normal\(chips)!SIM800C_P0V0_SIM800C_P0V0_SIM80!!!F10!!!!!!!!
+S!N763521!U01!6!@modbusdtu.schematic1(sch_1):ins763417@module.\sim800c_p0v0.normal\(chips)!SIM800C_P0V0_SIM800C_P0V0_SIM80!!!F10!!!!!!!!
+S!N763599!U01!4!@modbusdtu.schematic1(sch_1):ins763417@module.\sim800c_p0v0.normal\(chips)!SIM800C_P0V0_SIM800C_P0V0_SIM80!!!F10!!!!!!!!
+S!VGSM!U01!1!@modbusdtu.schematic1(sch_1):ins763417@module.\sim800c_p0v0.normal\(chips)!SIM800C_P0V0_SIM800C_P0V0_SIM80!!!F10!!!!!!!!
+S!N693789!U03!6!@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)!W25Q16_SOIC-8_P25Q40!!!F8!!!!!!!!
+S!N693911!U03!1!@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)!W25Q16_SOIC-8_P25Q40!!!F8!!!!!!!!
+S!N693831!U03!5!@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)!W25Q16_SOIC-8_P25Q40!!!F8!!!!!!!!
+S!N693885!U03!2!@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)!W25Q16_SOIC-8_P25Q40!!!F8!!!!!!!!
+S!GND!U03!4!@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)!W25Q16_SOIC-8_P25Q40!!!F8!!!!!!!!
+S!N693881!U03!7!@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)!W25Q16_SOIC-8_P25Q40!!!F8!!!!!!!!
+S!+3V3!U03!8!@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)!W25Q16_SOIC-8_P25Q40!!!F8!!!!!!!!
+S!N693827!U03!3!@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)!W25Q16_SOIC-8_P25Q40!!!F8!!!!!!!!
+S!OSC_OUT!Y01!1!@modbusdtu.schematic1(sch_1):ins679719@primary.\crystal-1.normal\(chips)!CRYSTAL-1_SMD3225-4_12MHZ!!!F1!!!!!!!!
+S!GND!Y01!2!@modbusdtu.schematic1(sch_1):ins679719@primary.\crystal-1.normal\(chips)!CRYSTAL-1_SMD3225-4_12MHZ!!!F1!!!!!!!!
+S!OSC_IN!Y01!3!@modbusdtu.schematic1(sch_1):ins679719@primary.\crystal-1.normal\(chips)!CRYSTAL-1_SMD3225-4_12MHZ!!!F1!!!!!!!!
+S!GND!Y01!4!@modbusdtu.schematic1(sch_1):ins679719@primary.\crystal-1.normal\(chips)!CRYSTAL-1_SMD3225-4_12MHZ!!!F1!!!!!!!!
+S!N680988!Y02!1!@modbusdtu.schematic1(sch_1):ins680942@primary.\crystal.normal\(chips)!CRYSTAL_SMD3215_32.768K!!!F0!!!!!!!!
+S!N680958!Y02!2!@modbusdtu.schematic1(sch_1):ins680942@primary.\crystal.normal\(chips)!CRYSTAL_SMD3215_32.768K!!!F0!!!!!!!!
+S!USER_KEY!D14!2!@modbusdtu.schematic1(sch_1):ins773286@primary.\diode tvs.normal\(chips)!DIODE TVS_SMA_SMAJ36CA!!!F98!!!!!!!!
+S!GND!D14!1!@modbusdtu.schematic1(sch_1):ins773286@primary.\diode tvs.normal\(chips)!DIODE TVS_SMA_SMAJ36CA!!!F98!!!!!!!!
+S!N767247!TP04!1!@modbusdtu.schematic1(sch_1):ins770166@primary.\tp.normal\(chips)!TP_TP1_TP!!!F12!!!!!!!!
+S!VIN!TP05!1!@modbusdtu.schematic1(sch_1):ins764848@primary.\tp.normal\(chips)!TP_TP1_TP!!!F11!!!!!!!!
+S!VCC!TP03!1!@modbusdtu.schematic1(sch_1):ins425674@primary.\tp.normal\(chips)!TP_TP1_TP!!!F13!!!!!!!!
+S!+3V3!TP02!1!@modbusdtu.schematic1(sch_1):ins675809@primary.\tp.normal\(chips)!TP_TP1_TP!!!F14!!!!!!!!
+S!VGSM!TP01!1!@modbusdtu.schematic1(sch_1):ins771343@primary.\tp.normal\(chips)!TP_TP1_TP!!!F15!!!!!!!!
+S!N425772!C28!1!@modbusdtu.schematic1(sch_1):ins425834@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F138!!!!!!!!
+S!N425872!C28!2!@modbusdtu.schematic1(sch_1):ins425834@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F138!!!!!!!!
+S!+3V3!C24!1!@modbusdtu.schematic1(sch_1):ins679897@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F139!!!!!!!!
+S!GND!C24!2!@modbusdtu.schematic1(sch_1):ins679897@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F139!!!!!!!!
+S!N733834!C03!1!@modbusdtu.schematic1(sch_1):ins745257@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F143!!!!!!!!
+S!GND!C03!2!@modbusdtu.schematic1(sch_1):ins745257@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F143!!!!!!!!
+S!+3V3!C34!1!@modbusdtu.schematic1(sch_1):ins682561@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F137!!!!!!!!
+S!GND!C34!2!@modbusdtu.schematic1(sch_1):ins682561@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F137!!!!!!!!
+S!+3V3!C11!1!@modbusdtu.schematic1(sch_1):ins693859@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F142!!!!!!!!
+S!GND!C11!2!@modbusdtu.schematic1(sch_1):ins693859@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F142!!!!!!!!
+S!+3V3!C23!1!@modbusdtu.schematic1(sch_1):ins679913@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F140!!!!!!!!
+S!GND!C23!2!@modbusdtu.schematic1(sch_1):ins679913@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F140!!!!!!!!
+S!NRST!C14!1!@modbusdtu.schematic1(sch_1):ins679961@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F141!!!!!!!!
+S!GND!C14!2!@modbusdtu.schematic1(sch_1):ins679961@primary.\cap np.normal\(chips)!CAP NP_C0603_0.1UF!!!F141!!!!!!!!
+S!N679655!C26!1!@modbusdtu.schematic1(sch_1):ins679945@primary.\cap np.normal\(chips)!CAP NP_C0603_10NF!!!F117!!!!!!!!
+S!GND!C26!2!@modbusdtu.schematic1(sch_1):ins679945@primary.\cap np.normal\(chips)!CAP NP_C0603_10NF!!!F117!!!!!!!!
+S!VGSM!C09!1!@modbusdtu.schematic1(sch_1):ins709776@primary.\cap np.normal\(chips)!CAP NP_C0603_2.2UF!!!F125!!!!!!!!
+S!GND!C09!2!@modbusdtu.schematic1(sch_1):ins709776@primary.\cap np.normal\(chips)!CAP NP_C0603_2.2UF!!!F125!!!!!!!!
+S!GND!C33!1!@modbusdtu.schematic1(sch_1):ins784385@primary.\cap np.normal\(chips)!CAP NP_C0805_2.2UF/50V!!!F112!!!!!!!!
+S!N425988!C33!2!@modbusdtu.schematic1(sch_1):ins784385@primary.\cap np.normal\(chips)!CAP NP_C0805_2.2UF/50V!!!F112!!!!!!!!
+S!GND!C32!1!@modbusdtu.schematic1(sch_1):ins426120@primary.\cap np.normal\(chips)!CAP NP_C0805_2.2UF/50V!!!F113!!!!!!!!
+S!N425748!C32!2!@modbusdtu.schematic1(sch_1):ins426120@primary.\cap np.normal\(chips)!CAP NP_C0805_2.2UF/50V!!!F113!!!!!!!!
+S!N803626!D08!2!@modbusdtu.schematic1(sch_1):ins803572@primary.\led.normal\(chips)!LED_LED-3MM_GREEN!!!F102!!!!!!!!
+S!+3V3!D08!1!@modbusdtu.schematic1(sch_1):ins803572@primary.\led.normal\(chips)!LED_LED-3MM_GREEN!!!F102!!!!!!!!
+S!N803630!D09!2!@modbusdtu.schematic1(sch_1):ins803588@primary.\led.normal\(chips)!LED_LED-3MM_GREEN!!!F101!!!!!!!!
+S!+3V3!D09!1!@modbusdtu.schematic1(sch_1):ins803588@primary.\led.normal\(chips)!LED_LED-3MM_GREEN!!!F101!!!!!!!!
+S!N803634!D10!2!@modbusdtu.schematic1(sch_1):ins803604@primary.\led.normal\(chips)!LED_LED-3MM_GREEN!!!F100!!!!!!!!
+S!+3V3!D10!1!@modbusdtu.schematic1(sch_1):ins803604@primary.\led.normal\(chips)!LED_LED-3MM_GREEN!!!F100!!!!!!!!
+S!USER_KEY!D15!2!@modbusdtu.schematic1(sch_1):ins773244@primary.\diode.normal\(chips)!DIODE_SOD-323_1N4148WS!!!F97!!!!!!!!
+S!N773276!D15!1!@modbusdtu.schematic1(sch_1):ins773244@primary.\diode.normal\(chips)!DIODE_SOD-323_1N4148WS!!!F97!!!!!!!!
+S!RS485B!D13!1!@modbusdtu.schematic1(sch_1):ins682543@primary.\tvs_bd.normal\(chips)!TVS_BD_SOT23-3_PSM712!!!F99!!!!!!!!
+S!RS485A!D13!2!@modbusdtu.schematic1(sch_1):ins682543@primary.\tvs_bd.normal\(chips)!TVS_BD_SOT23-3_PSM712!!!F99!!!!!!!!
+S!GND!D13!3!@modbusdtu.schematic1(sch_1):ins682543@primary.\tvs_bd.normal\(chips)!TVS_BD_SOT23-3_PSM712!!!F99!!!!!!!!
+S!N700462!J04!1!@modbusdtu.schematic1(sch_1):ins700430@connector.\conn pcb 4.normal\(chips)!CONN PCB 4_XH-4A_SWD!!!F92!!!!!!!!
+S!N700450!J04!2!@modbusdtu.schematic1(sch_1):ins700430@connector.\conn pcb 4.normal\(chips)!CONN PCB 4_XH-4A_SWD!!!F92!!!!!!!!
+S!GND!J04!3!@modbusdtu.schematic1(sch_1):ins700430@connector.\conn pcb 4.normal\(chips)!CONN PCB 4_XH-4A_SWD!!!F92!!!!!!!!
+S!+3V3!J04!4!@modbusdtu.schematic1(sch_1):ins700430@connector.\conn pcb 4.normal\(chips)!CONN PCB 4_XH-4A_SWD!!!F92!!!!!!!!
+S!+3V3!L02!1!@modbusdtu.schematic1(sch_1):ins679619@primary.\inductor.normal\(chips)!INDUCTOR_R0603_CBG160808U600T!!!F90!!!!!!!!
+S!N679655!L02!2!@modbusdtu.schematic1(sch_1):ins679619@primary.\inductor.normal\(chips)!INDUCTOR_R0603_CBG160808U600T!!!F90!!!!!!!!
+S!GSM_RX!R16!1!@modbusdtu.schematic1(sch_1):ins821095@primary.\res.normal\(chips)!RES_R0603_10K!!!F40!!!!!!!!
+S!+3V3!R16!2!@modbusdtu.schematic1(sch_1):ins821095@primary.\res.normal\(chips)!RES_R0603_10K!!!F40!!!!!!!!
+S!N822315!R13!1!@modbusdtu.schematic1(sch_1):ins822537@primary.\res.normal\(chips)!RES_R0603_10K!!!F39!!!!!!!!
+S!N817284!R13!2!@modbusdtu.schematic1(sch_1):ins822537@primary.\res.normal\(chips)!RES_R0603_10K!!!F39!!!!!!!!
+S!N767106!R53!1!@modbusdtu.schematic1(sch_1):ins767118@primary.\res.normal\(chips)!RES_R0603_10K!!!F42!!!!!!!!
+S!GND!R53!2!@modbusdtu.schematic1(sch_1):ins767118@primary.\res.normal\(chips)!RES_R0603_10K!!!F42!!!!!!!!
+S!N702312!R27!1!@modbusdtu.schematic1(sch_1):ins702252@primary.\res.normal\(chips)!RES_R0603_10K!!!F45!!!!!!!!
+S!VCC!R27!2!@modbusdtu.schematic1(sch_1):ins702252@primary.\res.normal\(chips)!RES_R0603_10K!!!F45!!!!!!!!
+S!GND!R31!1!@modbusdtu.schematic1(sch_1):ins770568@primary.\res.normal\(chips)!RES_R0603_10K!!!F44!!!!!!!!
+S!N770558!R31!2!@modbusdtu.schematic1(sch_1):ins770568@primary.\res.normal\(chips)!RES_R0603_10K!!!F44!!!!!!!!
+S!BOOT0!R22!1!@modbusdtu.schematic1(sch_1):ins679849@primary.\res.normal\(chips)!RES_R0603_10K!!!F46!!!!!!!!
+S!GND!R22!2!@modbusdtu.schematic1(sch_1):ins679849@primary.\res.normal\(chips)!RES_R0603_10K!!!F46!!!!!!!!
+S!GND!R12!1!@modbusdtu.schematic1(sch_1):ins737130@primary.\res.normal\(chips)!RES_R0603_10K!!!F47!!!!!!!!
+S!N737146!R12!2!@modbusdtu.schematic1(sch_1):ins737130@primary.\res.normal\(chips)!RES_R0603_10K!!!F47!!!!!!!!
+S!GND!R45!1!@modbusdtu.schematic1(sch_1):ins774949@primary.\res.normal\(chips)!RES_R0603_10K!!!F43!!!!!!!!
+S!N774939!R45!2!@modbusdtu.schematic1(sch_1):ins774949@primary.\res.normal\(chips)!RES_R0603_10K!!!F43!!!!!!!!
+S!+3V3!R10!1!@modbusdtu.schematic1(sch_1):ins693791@primary.\res.normal\(chips)!RES_R0603_10K!!!F48!!!!!!!!
+S!N693827!R10!2!@modbusdtu.schematic1(sch_1):ins693791@primary.\res.normal\(chips)!RES_R0603_10K!!!F48!!!!!!!!
+S!+3V3!R09!1!@modbusdtu.schematic1(sch_1):ins693833@primary.\res.normal\(chips)!RES_R0603_10K!!!F49!!!!!!!!
+S!N693881!R09!2!@modbusdtu.schematic1(sch_1):ins693833@primary.\res.normal\(chips)!RES_R0603_10K!!!F49!!!!!!!!
+S!GND!R58!1!@modbusdtu.schematic1(sch_1):ins767500@primary.\res.normal\(chips)!RES_R0603_10K!!!F41!!!!!!!!
+S!N768881!R58!2!@modbusdtu.schematic1(sch_1):ins767500@primary.\res.normal\(chips)!RES_R0603_10K!!!F41!!!!!!!!
+S!N773184!R35!1!@modbusdtu.schematic1(sch_1):ins773128@primary.\res.normal\(chips)!RES_R0603_30K!!!F25!!!!!!!!
+S!+3V3!R35!2!@modbusdtu.schematic1(sch_1):ins773128@primary.\res.normal\(chips)!RES_R0603_30K!!!F25!!!!!!!!
+S!N817284!R14!1!@modbusdtu.schematic1(sch_1):ins817365@primary.\res.normal\(chips)!RES_R0603_1K!!!F54!!!!!!!!
+S!N822323!R14!2!@modbusdtu.schematic1(sch_1):ins817365@primary.\res.normal\(chips)!RES_R0603_1K!!!F54!!!!!!!!
+S!N817284!R15!1!@modbusdtu.schematic1(sch_1):ins821343@primary.\res.normal\(chips)!RES_R0603_1K!!!F53!!!!!!!!
+S!N822327!R15!2!@modbusdtu.schematic1(sch_1):ins821343@primary.\res.normal\(chips)!RES_R0603_1K!!!F53!!!!!!!!
+S!GSM_PWR!R30!1!@modbusdtu.schematic1(sch_1):ins802488@primary.\res.normal\(chips)!RES_R0603_1K!!!F67!!!!!!!!
+S!N770558!R30!2!@modbusdtu.schematic1(sch_1):ins802488@primary.\res.normal\(chips)!RES_R0603_1K!!!F67!!!!!!!!
+S!N767106!R52!1!@modbusdtu.schematic1(sch_1):ins802180@primary.\res.normal\(chips)!RES_R0603_1K!!!F57!!!!!!!!
+S!ADC_VIN!R52!2!@modbusdtu.schematic1(sch_1):ins802180@primary.\res.normal\(chips)!RES_R0603_1K!!!F57!!!!!!!!
+S!BAT_PWR!R59!1!@modbusdtu.schematic1(sch_1):ins802603@primary.\res.normal\(chips)!RES_R0603_1K!!!F56!!!!!!!!
+S!N768881!R59!2!@modbusdtu.schematic1(sch_1):ins802603@primary.\res.normal\(chips)!RES_R0603_1K!!!F56!!!!!!!!
+S!N768259!R62!1!@modbusdtu.schematic1(sch_1):ins802254@primary.\res.normal\(chips)!RES_R0603_1K!!!F55!!!!!!!!
+S!ADC_VBAT!R62!2!@modbusdtu.schematic1(sch_1):ins802254@primary.\res.normal\(chips)!RES_R0603_1K!!!F55!!!!!!!!
+S!RS485_DE!R46!1!@modbusdtu.schematic1(sch_1):ins798542@primary.\res.normal\(chips)!RES_R0603_1K!!!F59!!!!!!!!
+S!N682479!R46!2!@modbusdtu.schematic1(sch_1):ins798542@primary.\res.normal\(chips)!RES_R0603_1K!!!F59!!!!!!!!
+S!RS485_RX!R44!1!@modbusdtu.schematic1(sch_1):ins798574@primary.\res.normal\(chips)!RES_R0603_1K!!!F60!!!!!!!!
+S!N798879!R44!2!@modbusdtu.schematic1(sch_1):ins798574@primary.\res.normal\(chips)!RES_R0603_1K!!!F60!!!!!!!!
+S!STATUS_LED!R38!1!@modbusdtu.schematic1(sch_1):ins803704@primary.\res.normal\(chips)!RES_R0603_1K!!!F64!!!!!!!!
+S!N803626!R38!2!@modbusdtu.schematic1(sch_1):ins803704@primary.\res.normal\(chips)!RES_R0603_1K!!!F64!!!!!!!!
+S!GSM_LED!R40!1!@modbusdtu.schematic1(sch_1):ins803736@primary.\res.normal\(chips)!RES_R0603_1K!!!F62!!!!!!!!
+S!N803634!R40!2!@modbusdtu.schematic1(sch_1):ins803736@primary.\res.normal\(chips)!RES_R0603_1K!!!F62!!!!!!!!
+S!DBG_LED!R21!1!@modbusdtu.schematic1(sch_1):ins803768@primary.\res.normal\(chips)!RES_R0603_1K!!!F72!!!!!!!!
+S!N806128!R21!2!@modbusdtu.schematic1(sch_1):ins803768@primary.\res.normal\(chips)!RES_R0603_1K!!!F72!!!!!!!!
+S!KEY_IN!R36!1!@modbusdtu.schematic1(sch_1):ins799081@primary.\res.normal\(chips)!RES_R0603_1K!!!F66!!!!!!!!
+S!N773184!R36!2!@modbusdtu.schematic1(sch_1):ins799081@primary.\res.normal\(chips)!RES_R0603_1K!!!F66!!!!!!!!
+S!N743013!R04!1!@modbusdtu.schematic1(sch_1):ins742991@primary.\res.normal\(chips)!RES_R0603_1K!!!F75!!!!!!!!
+S!N743392!R04!2!@modbusdtu.schematic1(sch_1):ins742991@primary.\res.normal\(chips)!RES_R0603_1K!!!F75!!!!!!!!
+S!N742916!R05!1!@modbusdtu.schematic1(sch_1):ins742898@primary.\res.normal\(chips)!RES_R0603_1K!!!F74!!!!!!!!
+S!N743399!R05!2!@modbusdtu.schematic1(sch_1):ins742898@primary.\res.normal\(chips)!RES_R0603_1K!!!F74!!!!!!!!
+S!N693831!R23!1!@modbusdtu.schematic1(sch_1):ins799374@primary.\res.normal\(chips)!RES_R0603_1K!!!F71!!!!!!!!
+S!FLASH_MOSI!R23!2!@modbusdtu.schematic1(sch_1):ins799374@primary.\res.normal\(chips)!RES_R0603_1K!!!F71!!!!!!!!
+S!GND!R37!1!@modbusdtu.schematic1(sch_1):ins803660@primary.\res.normal\(chips)!RES_R0603_1K!!!F65!!!!!!!!
+S!N803622!R37!2!@modbusdtu.schematic1(sch_1):ins803660@primary.\res.normal\(chips)!RES_R0603_1K!!!F65!!!!!!!!
+S!RS485_TX!R41!1!@modbusdtu.schematic1(sch_1):ins798558@primary.\res.normal\(chips)!RES_R0603_1K!!!F61!!!!!!!!
+S!N798889!R41!2!@modbusdtu.schematic1(sch_1):ins798558@primary.\res.normal\(chips)!RES_R0603_1K!!!F61!!!!!!!!
+S!N742894!R03!1!@modbusdtu.schematic1(sch_1):ins742851@primary.\res.normal\(chips)!RES_R0603_1K!!!F76!!!!!!!!
+S!N743403!R03!2!@modbusdtu.schematic1(sch_1):ins742851@primary.\res.normal\(chips)!RES_R0603_1K!!!F76!!!!!!!!
+S!N743725!R11!1!@modbusdtu.schematic1(sch_1):ins743709@primary.\res.normal\(chips)!RES_R0603_1K!!!F73!!!!!!!!
+S!GSM_PWRKEY!R11!2!@modbusdtu.schematic1(sch_1):ins743709@primary.\res.normal\(chips)!RES_R0603_1K!!!F73!!!!!!!!
+S!N693789!R25!1!@modbusdtu.schematic1(sch_1):ins799390@primary.\res.normal\(chips)!RES_R0603_1K!!!F69!!!!!!!!
+S!FLASH_SCK!R25!2!@modbusdtu.schematic1(sch_1):ins799390@primary.\res.normal\(chips)!RES_R0603_1K!!!F69!!!!!!!!
+S!N693885!R24!1!@modbusdtu.schematic1(sch_1):ins799358@primary.\res.normal\(chips)!RES_R0603_1K!!!F70!!!!!!!!
+S!FLASH_MISO!R24!2!@modbusdtu.schematic1(sch_1):ins799358@primary.\res.normal\(chips)!RES_R0603_1K!!!F70!!!!!!!!
+S!N693911!R26!1!@modbusdtu.schematic1(sch_1):ins799342@primary.\res.normal\(chips)!RES_R0603_1K!!!F68!!!!!!!!
+S!FLASH_NSS!R26!2!@modbusdtu.schematic1(sch_1):ins799342@primary.\res.normal\(chips)!RES_R0603_1K!!!F68!!!!!!!!
+S!N742971!R02!1!@modbusdtu.schematic1(sch_1):ins742835@primary.\res.normal\(chips)!RES_R0603_1K!!!F77!!!!!!!!
+S!N743407!R02!2!@modbusdtu.schematic1(sch_1):ins742835@primary.\res.normal\(chips)!RES_R0603_1K!!!F77!!!!!!!!
+S!N774939!R47!1!@modbusdtu.schematic1(sch_1):ins798977@primary.\res.normal\(chips)!RES_R0603_1K!!!F58!!!!!!!!
+S!BEEP!R47!2!@modbusdtu.schematic1(sch_1):ins798977@primary.\res.normal\(chips)!RES_R0603_1K!!!F58!!!!!!!!
+S!RS485_LED!R39!1!@modbusdtu.schematic1(sch_1):ins803720@primary.\res.normal\(chips)!RES_R0603_1K!!!F63!!!!!!!!
+S!N803630!R39!2!@modbusdtu.schematic1(sch_1):ins803720@primary.\res.normal\(chips)!RES_R0603_1K!!!F63!!!!!!!!
+S!N763599!R17!1!@modbusdtu.schematic1(sch_1):ins763567@primary.\res.normal\(chips)!RES_R0603_100R!!!F38!!!!!!!!
+S!GSM_RX!R17!2!@modbusdtu.schematic1(sch_1):ins763567@primary.\res.normal\(chips)!RES_R0603_100R!!!F38!!!!!!!!
+S!N679821!R50!1!@modbusdtu.schematic1(sch_1):ins700317@primary.\res.normal\(chips)!RES_R0603_100R!!!F36!!!!!!!!
+S!N700450!R50!2!@modbusdtu.schematic1(sch_1):ins700317@primary.\res.normal\(chips)!RES_R0603_100R!!!F36!!!!!!!!
+S!N679845!R57!1!@modbusdtu.schematic1(sch_1):ins700355@primary.\res.normal\(chips)!RES_R0603_100R!!!F35!!!!!!!!
+S!N700462!R57!2!@modbusdtu.schematic1(sch_1):ins700355@primary.\res.normal\(chips)!RES_R0603_100R!!!F35!!!!!!!!
+S!N763631!R20!1!@modbusdtu.schematic1(sch_1):ins763601@primary.\res.normal\(chips)!RES_R0603_100R!!!F37!!!!!!!!
+S!GSM_TX!R20!2!@modbusdtu.schematic1(sch_1):ins763601@primary.\res.normal\(chips)!RES_R0603_100R!!!F37!!!!!!!!
+S!N425748!R43!1!@modbusdtu.schematic1(sch_1):ins425910@primary.\res.normal\(chips)!RES_R0805_2R!!!F22!!!!!!!!
+S!N425988!R43!2!@modbusdtu.schematic1(sch_1):ins425910@primary.\res.normal\(chips)!RES_R0805_2R!!!F22!!!!!!!!
+S!N767247!R60!1!@modbusdtu.schematic1(sch_1):ins768241@primary.\res.normal\(chips)!RES_R0603_100K!!!F28!!!!!!!!
+S!N768259!R60!2!@modbusdtu.schematic1(sch_1):ins768241@primary.\res.normal\(chips)!RES_R0603_100K!!!F28!!!!!!!!
+S!GND!R32!1!@modbusdtu.schematic1(sch_1):ins784189@primary.\res.normal\(chips)!RES_R0603_100K!!!F30!!!!!!!!
+S!N425904!R32!2!@modbusdtu.schematic1(sch_1):ins784189@primary.\res.normal\(chips)!RES_R0603_100K!!!F30!!!!!!!!
+S!VIN!R51!1!@modbusdtu.schematic1(sch_1):ins767078@primary.\res.normal\(chips)!RES_R0603_100K!!!F29!!!!!!!!
+S!N767106!R51!2!@modbusdtu.schematic1(sch_1):ins767078@primary.\res.normal\(chips)!RES_R0603_100K!!!F29!!!!!!!!
+S!N425904!R28!1!@modbusdtu.schematic1(sch_1):ins425942@primary.\res.normal\(chips)!RES_R0603_100K!!!F32!!!!!!!!
+S!VCC!R28!2!@modbusdtu.schematic1(sch_1):ins425942@primary.\res.normal\(chips)!RES_R0603_100K!!!F32!!!!!!!!
+S!GND!R29!1!@modbusdtu.schematic1(sch_1):ins426168@primary.\res.normal\(chips)!RES_R0603_100K!!!F31!!!!!!!!
+S!N426114!R29!2!@modbusdtu.schematic1(sch_1):ins426168@primary.\res.normal\(chips)!RES_R0603_100K!!!F31!!!!!!!!
+S!VIN!R54!1!@modbusdtu.schematic1(sch_1):ins773112@primary.\res.normal\(chips)!RES_R0603_20K!!!F19!!!!!!!!
+S!N773160!R54!2!@modbusdtu.schematic1(sch_1):ins773112@primary.\res.normal\(chips)!RES_R0603_20K!!!F19!!!!!!!!
+S!N763521!R18!1!@modbusdtu.schematic1(sch_1):ins763489@primary.\res.normal\(chips)!RES_R0603_NF!!!F34!!!!!!!!
+S!GSM_RX!R18!2!@modbusdtu.schematic1(sch_1):ins763489@primary.\res.normal\(chips)!RES_R0603_NF!!!F34!!!!!!!!
+S!N763565!R19!1!@modbusdtu.schematic1(sch_1):ins763523@primary.\res.normal\(chips)!RES_R0603_NF!!!F33!!!!!!!!
+S!GSM_TX!R19!2!@modbusdtu.schematic1(sch_1):ins763523@primary.\res.normal\(chips)!RES_R0603_NF!!!F33!!!!!!!!
+S!RS485B!R55!1!@modbusdtu.schematic1(sch_1):ins682662@primary.\res.normal\(chips)!RES_R2010_120R!!!F18!!!!!!!!
+S!RS485A!R55!2!@modbusdtu.schematic1(sch_1):ins682662@primary.\res.normal\(chips)!RES_R2010_120R!!!F18!!!!!!!!
+S!N682371!R49!1!@modbusdtu.schematic1(sch_1):ins682373@primary.\res.normal\(chips)!RES_R2010_22R!!!F20!!!!!!!!
+S!RS485A!R49!2!@modbusdtu.schematic1(sch_1):ins682373@primary.\res.normal\(chips)!RES_R2010_22R!!!F20!!!!!!!!
+S!N682487!R48!1!@modbusdtu.schematic1(sch_1):ins682447@primary.\res.normal\(chips)!RES_R2010_22R!!!F21!!!!!!!!
+S!RS485B!R48!2!@modbusdtu.schematic1(sch_1):ins682447@primary.\res.normal\(chips)!RES_R2010_22R!!!F21!!!!!!!!
+S!NRST!SW01!1!@modbusdtu.schematic1(sch_1):ins679865@primary.\sw-pb-2.normal\(chips)!SW-PB-2_SW-3X6_SW-PB-2!!!F16!!!!!!!!
+S!GND!SW01!2!@modbusdtu.schematic1(sch_1):ins679865@primary.\sw-pb-2.normal\(chips)!SW-PB-2_SW-3X6_SW-PB-2!!!F16!!!!!!!!
+S!N773160!U08!1!@modbusdtu.schematic1(sch_1):ins773162@primary.\el354.normal\(chips)!EL354_SOP-4_EL354!!!F2!!!!!!!!
+S!N773276!U08!2!@modbusdtu.schematic1(sch_1):ins773162@primary.\el354.normal\(chips)!EL354_SOP-4_EL354!!!F2!!!!!!!!
+S!N773184!U08!4!@modbusdtu.schematic1(sch_1):ins773162@primary.\el354.normal\(chips)!EL354_SOP-4_EL354!!!F2!!!!!!!!
+S!GND!U08!3!@modbusdtu.schematic1(sch_1):ins773162@primary.\el354.normal\(chips)!EL354_SOP-4_EL354!!!F2!!!!!!!!
+S!N675915!U04!4!@modbusdtu.schematic1(sch_1):ins675843@primary.\rt9193.normal\(chips)!RT9193_SOT23-5_RT9193-33GB!!!F7!!!!!!!!
+S!N702312!U04!3!@modbusdtu.schematic1(sch_1):ins675843@primary.\rt9193.normal\(chips)!RT9193_SOT23-5_RT9193-33GB!!!F7!!!!!!!!
+S!GND!U04!2!@modbusdtu.schematic1(sch_1):ins675843@primary.\rt9193.normal\(chips)!RT9193_SOT23-5_RT9193-33GB!!!F7!!!!!!!!
+S!VCC!U04!1!@modbusdtu.schematic1(sch_1):ins675843@primary.\rt9193.normal\(chips)!RT9193_SOT23-5_RT9193-33GB!!!F7!!!!!!!!
+S!+3V3!U04!5!@modbusdtu.schematic1(sch_1):ins675843@primary.\rt9193.normal\(chips)!RT9193_SOT23-5_RT9193-33GB!!!F7!!!!!!!!
+S!BOOT0!U05!44!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!NRST!U05!7!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!N679821!U05!34!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!N679845!U05!37!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!!U05!2!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!N680958!U05!3!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!N680988!U05!4!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!OSC_IN!U05!5!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!OSC_OUT!U05!6!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!!U05!35!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!!U05!36!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!+3V3!U05!1!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!+3V3!U05!24!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!+3V3!U05!48!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!N679655!U05!9!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!GND!U05!23!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!GND!U05!47!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!GND!U05!8!@modbusdtu.schematic1(sch_1):ins680375@primary.\stm32f030c8a.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F6!!!!!!!!
+S!GSM_PWR!U05!10!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!GSM_PWRKEY!U05!11!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!RS485_RX!U05!31!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!BEEP!U05!32!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!RS485_DE!U05!33!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!FLASH_NSS!U05!38!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!GSM_TX!U05!12!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!GSM_RX!U05!13!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!STATUS_LED!U05!14!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!BAT_PWR!U05!15!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!RS485_LED!U05!16!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!GSM_LED!U05!17!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!29!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!RS485_TX!U05!30!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!ADC_VBAT!U05!18!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!ADC_VIN!U05!19!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!21!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!22!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!25!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!26!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!27!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!28!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!KEY_IN!U05!20!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!FLASH_SCK!U05!39!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!FLASH_MISO!U05!40!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!FLASH_MOSI!U05!41!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!42!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!43!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!!U05!45!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!DBG_LED!U05!46!@modbusdtu.schematic1(sch_1):ins680575@primary.\stm32f030c8b.normal\(chips)!STM32F030C8_LQFP-48_(S1+S2)_STM!!!F5!!!!!!!!
+S!N682371!U07!6!@modbusdtu.schematic1(sch_1):ins682307@primary.\sp485.normal\(chips)!SP485_SOIC-8_SP3485!!!F3!!!!!!!!
+S!N682487!U07!7!@modbusdtu.schematic1(sch_1):ins682307@primary.\sp485.normal\(chips)!SP485_SOIC-8_SP3485!!!F3!!!!!!!!
+S!N682479!U07!3!@modbusdtu.schematic1(sch_1):ins682307@primary.\sp485.normal\(chips)!SP485_SOIC-8_SP3485!!!F3!!!!!!!!
+S!N798889!U07!4!@modbusdtu.schematic1(sch_1):ins682307@primary.\sp485.normal\(chips)!SP485_SOIC-8_SP3485!!!F3!!!!!!!!
+S!GND!U07!5!@modbusdtu.schematic1(sch_1):ins682307@primary.\sp485.normal\(chips)!SP485_SOIC-8_SP3485!!!F3!!!!!!!!
+S!N798879!U07!1!@modbusdtu.schematic1(sch_1):ins682307@primary.\sp485.normal\(chips)!SP485_SOIC-8_SP3485!!!F3!!!!!!!!
+S!N682479!U07!2!@modbusdtu.schematic1(sch_1):ins682307@primary.\sp485.normal\(chips)!SP485_SOIC-8_SP3485!!!F3!!!!!!!!
+S!+3V3!U07!8!@modbusdtu.schematic1(sch_1):ins682307@primary.\sp485.normal\(chips)!SP485_SOIC-8_SP3485!!!F3!!!!!!!!

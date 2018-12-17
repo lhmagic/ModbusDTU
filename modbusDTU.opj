@@ -12,7 +12,7 @@
     (DOCKING_POSITION "59420")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "3")
+    (ANNOTATE_Action "1")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
@@ -33,7 +33,8 @@
     (DRC_Preserved_Waived "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
-    (DRC_Report_File "D:\PROJECTS\KMS\2018\MODBUSDTU\HARDWARE\modbusdtu.DRC")
+    (DRC_Report_File
+       "C:\USERS\LHMAGIC\DESKTOP\MODBUSDTU\HARDWARE\modbusdtu.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -78,7 +79,15 @@
     ("Allegro Setup Part Type Length" "31")
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
-    ("Allegro Netlist User Defined Property" "FALSE"))
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Backannotation Run Genfeed" "TRUE")
+    ("Allegro Backannotation Board File" "allegro\MODBUSDTU.brd")
+    ("Allegro Backannotation Netlist Directory" "allegro")
+    ("Allegro Backannotation Output File" "allegro\MODBUSDTU.swp")
+    ("Allegro Backannotation Update Schematic" "TRUE")
+    ("Allegro Backannotation View Output" "FALSE")
+    ("Allegro Setup Output Warnings" "FALSE")
+    (Backannotation_TAB "0"))
   (Folder "Outputs"
     (File "..\modbusdtu.drc"
       (Type "Report"))
@@ -96,9 +105,28 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\allegro\pinview.dat"
+      (Type "Report")
+      (DisplayName "pinView.dat"))
+    (File ".\allegro\netview.dat"
+      (Type "Report")
+      (DisplayName "netView.dat"))
+    (File ".\allegro\funcview.dat"
+      (Type "Report")
+      (DisplayName "funcView.dat"))
+    (File ".\allegro\compview.dat"
+      (Type "Report")
+      (DisplayName "compView.dat"))
+    (File ".\allegro\modbusdtu.swp"
+      (Type "Report")
+      (DisplayName "MODBUSDTU.swp")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (NPN
+      (FullPartName "NPN.Normal")
+      (LibraryName "D:\CADENCELIB\PART\PRIMARY.OLB")
+      (DeviceIndex "0"))
     (DTVSARR_CA_5/SOT23
       (FullPartName "DTVSARR_CA_5/SOT23.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -196,58 +224,25 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "D:\Projects\KMS\2018\modbusDTU\hardware\modbusdtu.dsn")
-      (Path "Design Resources"
-         "D:\Projects\KMS\2018\modbusDTU\hardware\modbusdtu.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\modbusdtu.dsn")
+      (Path "Design Resources" ".\modbusdtu.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources"
-         "D:\Projects\KMS\2018\modbusDTU\hardware\modbusdtu.dsn"))
+      (Select "Design Resources" ".\modbusdtu.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 937"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 0 0 0"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1379 25 534")
-        (Scroll "-68 0")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 -8 -30 25 1354 25 549")
+        (Scroll "470 0")
+        (Zoom "200")
         (Occurrence "/"))
       (Path "D:\PROJECTS\KMS\2018\MODBUSDTU\HARDWARE\MODBUSDTU.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "04_Misc"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1433 75 588")
-        (Scroll "-70 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "D:\PROJECTS\KMS\2018\MODBUSDTU\HARDWARE\MODBUSDTU.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "03_SIM800C"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1433 75 588")
-        (Scroll "-70 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "D:\PROJECTS\KMS\2018\MODBUSDTU\HARDWARE\MODBUSDTU.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "01_Power"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 100 1458 100 613")
-        (Scroll "-191 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "D:\PROJECTS\KMS\2018\MODBUSDTU\HARDWARE\MODBUSDTU.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "02_MCU")))
-  (LastUsedLibraryBrowseDirectory "D:\newLib\part")
+      (Page "03_SIM800C")))
+  (LastUsedLibraryBrowseDirectory "D:\cadenceLib\part")
   (ISPCBBASICLICENSE "false"))

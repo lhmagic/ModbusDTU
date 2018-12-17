@@ -11,5 +11,5 @@
 *.rpt
 *,[0-9]
 *lck
-stepFacetFiles4Map/
-signoise.run/
+stepFacetFiles4Map
+signoise.run

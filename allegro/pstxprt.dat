@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Dec-12-2018 at 13:41:21 }
+{ Using PSTWRITER 17.2.0 d001Dec-18-2018 at 09:54:13 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='MODBUSDTU';
@@ -8,7 +8,7 @@ DIRECTIVES
 END_DIRECTIVES;
 
 PART_NAME
- ANT1 'ANT_IPEX_ANT':;
+ ANT01 'ANT_RF-SMA_ANT':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS743863@PRIMARY.ANT.NORMAL(CHIPS)':
@@ -18,259 +18,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C1 'CAP NP_C0603_0.1UF':
- ROOM='MP2560';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425834@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins425834@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425834@primary.\cap np.normal\(chips)',
- ROOM='MP2560',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C10 'CAP NP_C0603_2.2UF/16V':
- ROOM='MP2451';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675937@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins675937@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins675937@primary.\cap np.normal\(chips)',
- ROOM='MP2451',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C11 'CAP NP_C0603_22NF':
- ROOM='MP2451';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675953@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins675953@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins675953@primary.\cap np.normal\(chips)',
- ROOM='MP2451',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C12 'CAP NP_C0603_2.2UF/16V':
- ROOM='MP2451';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675969@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins675969@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins675969@primary.\cap np.normal\(chips)',
- ROOM='MP2451',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C13 'CAP NP_C0603_4.7UF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679881@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679881@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679881@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C14 'CAP NP_C0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679897@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679897@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679897@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C15 'CAP NP_C0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679913@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679913@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679913@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C16 'CAP NP_C0603_1UF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679929@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679929@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679929@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C17 'CAP NP_C0603_10NF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679945@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679945@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679945@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C18 'CAP NP_C0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679961@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679961@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679961@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C19 'CAP NP_C0603_6PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679977@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679977@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679977@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C2 'CAP NP_C0603_10PF':
- ROOM='MP2560';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425958@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins425958@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425958@primary.\cap np.normal\(chips)',
- ROOM='MP2560',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C20 'CAP NP_C0603_6PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679993@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679993@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679993@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C21 'CAP NP_C0603_6PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS680972@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins680972@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins680972@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C22 'CAP NP_C0603_6PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS681005@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins681005@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins681005@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C23 'CAP NP_C0603_2.2UF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS709776@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins709776@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins709776@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C24 'CAP NP_C0603_33PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS709802@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins709802@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins709802@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C25 'CAP POL_CAPE6X2R50_100UF/16V':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS709751@PRIMARY.CAP POL.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins709751@primary.\cap pol.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins709751@primary.\cap pol.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C26 'CAP NP_C0603_10PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS709818@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins709818@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins709818@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C27 'CAP NP_C0603_0.1UF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS745257@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins745257@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins745257@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C28 'CAP NP_C0603_22PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS745528@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins745528@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins745528@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C29 'CAP NP_C0603_22PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS745544@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins745544@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins745544@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C3 'CAP NP_C0603_150PF':
- ROOM='MP2560';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426020@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins426020@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426020@primary.\cap np.normal\(chips)',
- ROOM='MP2560',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C30 'CAP NP_C0603_22PF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS745560@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins745560@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins745560@primary.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C31 'CAP NP_C0603_NF':;
+ C01 'CAP NP_C0603_NF':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS735247@PRIMARY.CAP NP.NORMAL(CHIPS)':
@@ -280,7 +28,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C32 'CAP NP_C0603_NF':;
+ C02 'CAP NP_C0603_NF':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS743834@PRIMARY.CAP NP.NORMAL(CHIPS)':
@@ -290,17 +38,87 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C33 'CAP NP_C0603_0.1UF':;
+ C03 'CAP NP_C0603_0.1UF':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682561@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins682561@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682561@primary.\cap np.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS745257@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins745257@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins745257@primary.\cap np.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C34 'CAP NP_C0603_0.1UF':;
+ C04 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS745560@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins745560@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins745560@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C05 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS745528@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins745528@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins745528@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C06 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS745544@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins745544@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins745544@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C07 'CAP NP_C0603_33PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS709802@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins709802@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins709802@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C08 'CAP NP_C0603_10PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS709818@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins709818@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins709818@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C09 'CAP NP_C0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS709776@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins709776@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins709776@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP POL_CAPE6X2R50_100UF/16V':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS709751@PRIMARY.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins709751@primary.\cap pol.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins709751@primary.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0603_0.1UF':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS693859@PRIMARY.CAP NP.NORMAL(CHIPS)':
@@ -310,7 +128,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C4 'CAP NP_C0805_10UF/10V':
+ C12 'CAP NP_C0805_10UF/10V':
  ROOM='MP2560';
 
 SECTION_NUMBER 1
@@ -322,7 +140,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C5 'CAP POL_CAPE6X2R50_100UF/16V':;
+ C13 'CAP POL_CAPE6X2R50_100UF/16V':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS677190@PRIMARY.CAP POL.NORMAL(CHIPS)':
@@ -332,7 +150,57 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C6 'CAP NP_C0603_10PF':
+ C14 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679961@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679961@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679961@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_C0603_33PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679977@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679977@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679977@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_C0603_33PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679993@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679993@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679993@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS680972@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins680972@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins680972@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS681005@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins681005@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins681005@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_C0603_10PF':
  ROOM='MP2560';
 
 SECTION_NUMBER 1
@@ -344,19 +212,129 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C7 'CAP NP_C0805_2.2UF/50V':
+ C20 'CAP NP_C0603_2.2UF/16V':
+ ROOM='MP2451';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675937@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins675937@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins675937@primary.\cap np.normal\(chips)',
+ ROOM='MP2451',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_C0603_10PF':
  ROOM='MP2560';
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS784385@PRIMARY.CAP NP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins784385@primary.\cap np.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins784385@primary.\cap np.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425958@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins425958@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425958@primary.\cap np.normal\(chips)',
  ROOM='MP2560',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- C8 'CAP POL_CAPE6X2R50_47UF/50V':;
+ C22 'CAP NP_C0603_150PF':
+ ROOM='MP2560';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426020@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins426020@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426020@primary.\cap np.normal\(chips)',
+ ROOM='MP2560',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679913@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679913@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679913@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679897@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679897@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679897@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679881@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679881@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679881@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0603_10NF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679945@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679945@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679945@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679929@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679929@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679929@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0603_0.1UF':
+ ROOM='MP2560';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425834@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins425834@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425834@primary.\cap np.normal\(chips)',
+ ROOM='MP2560',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_C0603_2.2UF/16V':
+ ROOM='MP2451';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675969@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins675969@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins675969@primary.\cap np.normal\(chips)',
+ ROOM='MP2451',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_C0603_22NF':
+ ROOM='MP2451';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675953@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins675953@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins675953@primary.\cap np.normal\(chips)',
+ ROOM='MP2451',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP POL_CAPE6X2R50_47UF/50V':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS677302@PRIMARY.CAP POL.NORMAL(CHIPS)':
@@ -366,7 +344,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C9 'CAP NP_C0805_2.2UF/50V':
+ C32 'CAP NP_C0805_2.2UF/50V':
  ROOM='MP2560';
 
 SECTION_NUMBER 1
@@ -378,7 +356,143 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D1 'DIODE SCHOTTKY_SMA_SS14':
+ C33 'CAP NP_C0805_2.2UF/50V':
+ ROOM='MP2560';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS784385@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins784385@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins784385@primary.\cap np.normal\(chips)',
+ ROOM='MP2560',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682561@PRIMARY.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins682561@primary.\cap np.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682561@primary.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D01 'LED_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742810@PRIMARY.LED.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins742810@primary.\led.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins742810@primary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D02 'LED_LED0603_GREEN':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742975@PRIMARY.LED.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins742975@primary.\led.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins742975@primary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D03 'DIODE BI-DIR_R0603_PGB1010603NR':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS744425@PRIMARY.DIODE BI-DIR.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins744425@primary.\diode bi-dir.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins744425@primary.\diode bi-dir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D04 'DIODE ZENER_SOD-123_MM1Z5V1':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS760578@PRIMARY.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins760578@primary.\diode zener.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins760578@primary.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D07 'LED_LED0603_RED':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803676@PRIMARY.LED.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803676@primary.\led.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803676@primary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D08 'DIODE SCHOTTKY_SMA_SS14':
+ ROOM='MP2560';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426064@PRIMARY.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins426064@primary.\diode schottky.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426064@primary.\diode schottky.normal\(chips)',
+ ROOM='MP2560',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D09 'LED_LED-3MM_RED':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803556@PRIMARY.LED.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803556@primary.\led.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803556@primary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_LED-3MM_GREEN':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803572@PRIMARY.LED.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803572@primary.\led.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803572@primary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LED_LED-3MM_GREEN':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803588@PRIMARY.LED.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803588@primary.\led.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803588@primary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_LED-3MM_GREEN':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803604@PRIMARY.LED.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803604@primary.\led.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803604@primary.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'DIODE SCHOTTKY_SMA_SS14':
+ ROOM='MP2451';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767215@PRIMARY.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins767215@primary.\diode schottky.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767215@primary.\diode schottky.normal\(chips)',
+ ROOM='MP2451',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'DIODE SCHOTTKY_SMA_SS14':
  ROOM='MP2451';
 
 SECTION_NUMBER 1
@@ -390,72 +504,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D10 'DIODE_SOD-323_1N4148WS':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS728700@PRIMARY.DIODE.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins728700@primary.\diode.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins728700@primary.\diode.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D11 'DIODE ZENER_SOD-123_MM1Z5V1':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS760578@PRIMARY.DIODE ZENER.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins760578@primary.\diode zener.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins760578@primary.\diode zener.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D12 'DIODE_SOD-323_1N4148WS':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS728724@PRIMARY.DIODE.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins728724@primary.\diode.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins728724@primary.\diode.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D13 'LED_LED0603_RED':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742810@PRIMARY.LED.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins742810@primary.\led.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins742810@primary.\led.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D14 'LED_LED0603_GREEN':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742975@PRIMARY.LED.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins742975@primary.\led.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins742975@primary.\led.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D15 'DIODE BI-DIR_R0603_PGB1010603NR':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS744425@PRIMARY.DIODE BI-DIR.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins744425@primary.\diode bi-dir.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins744425@primary.\diode bi-dir.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D16 'TVS_BD_SOT23-3_PSM712':;
+ D15 'TVS_BD_SOT23-3_PSM712':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682543@PRIMARY.TVS_BD.NORMAL(CHIPS)':
  C_PATH='@modbusdtu.schematic1(sch_1):ins682543@primary.\tvs_bd.normal\(chips)',
  P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682543@primary.\tvs_bd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D16 'DIODE TVS_SMA_SMAJ36CA':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS773286@PRIMARY.DIODE TVS.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins773286@primary.\diode tvs.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins773286@primary.\diode tvs.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -470,101 +534,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D18 'DIODE TVS_SMA_SMAJ36CA':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS773286@PRIMARY.DIODE TVS.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins773286@primary.\diode tvs.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins773286@primary.\diode tvs.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D2 'DIODE SCHOTTKY_SMA_SS14':
- ROOM='MP2451';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767215@PRIMARY.DIODE SCHOTTKY.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins767215@primary.\diode schottky.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767215@primary.\diode schottky.normal\(chips)',
- ROOM='MP2451',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D3 'DIODE SCHOTTKY_SMA_SS14':
- ROOM='MP2560';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426064@PRIMARY.DIODE SCHOTTKY.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins426064@primary.\diode schottky.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426064@primary.\diode schottky.normal\(chips)',
- ROOM='MP2560',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D4 'LED_LED-3MM_RED':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS691016@PRIMARY.LED.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins691016@primary.\led.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins691016@primary.\led.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D5 'LED_LED-3MM_GREEN':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS690990@PRIMARY.LED.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins690990@primary.\led.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins690990@primary.\led.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D6 'LED_LED-3MM_GREEN':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS690964@PRIMARY.LED.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins690964@primary.\led.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins690964@primary.\led.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D7 'LED_LED-3MM_GREEN':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS690938@PRIMARY.LED.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins690938@primary.\led.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins690938@primary.\led.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D8 'LED_LED0603_RED':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS691993@PRIMARY.LED.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins691993@primary.\led.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins691993@primary.\led.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- D9 'LED_LED0603_RED':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS692505@PRIMARY.LED.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins692505@primary.\led.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins692505@primary.\led.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- DN1 'DTVSARR_CA_5/SOT23_SOT23-6_ESDA':;
+ DN01 'DTVSARR_CA_5/SOT23_SOT23-6_ESDA':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS785473@DISCRETE.DTVSARR_CA_5/SOT23.NORMAL(CHIPS)':
@@ -574,17 +544,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J1 'CONN PCB 4_XH-4A_SWD':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS700430@CONNECTOR.CONN PCB 4.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins700430@connector.\conn pcb 4.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins700430@connector.\conn pcb 4.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J2 'SIM_SIM-MICRO_SIM':;
+ J01 'SIM_SIM-MICRO_SIM-002-T6':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS733808@PRIMARY.SIM.NORMAL(CHIPS)':
@@ -594,7 +554,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J3 'CONN PCB 8_CON5MM-8P_CONN PCB 8':;
+ J02 'CONN PCB 8_CON5MM-8P_CONN PCB 8':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS764003@CONNECTOR.CONN PCB 8.NORMAL(CHIPS)':
@@ -604,7 +564,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J4 'CONN PCB 2_XH-2A_CONN PCB 2':;
+ J03 'CONN PCB 2_XH-2A_CONN PCB 2':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS780612@CONNECTOR.CONN PCB 2.NORMAL(CHIPS)':
@@ -614,7 +574,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- L1 'INDUCTOR_INDC-SLF6028_SLO0630H1':;
+ J04 'CONN PCB 4_XH-4A_SWD':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS700430@CONNECTOR.CONN PCB 4.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins700430@connector.\conn pcb 4.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins700430@connector.\conn pcb 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L01 'INDUCTOR_INDC-SLF6028_SLO0630H1':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425730@PRIMARY.INDUCTOR.NORMAL(CHIPS)':
@@ -624,7 +594,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- L2 'INDUCTOR_R0603_CBG160808U600T':;
+ L02 'INDUCTOR_R0603_CBG160808U600T':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679619@PRIMARY.INDUCTOR.NORMAL(CHIPS)':
@@ -634,7 +604,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- LS1 'BUZZER_BZ09B_QMB-09B-03':;
+ LS01 'BUZZER_BZ09B_QMB-09B-03':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS774885@ELECTROMECHANICAL.BUZZER.NORMAL(CHIPS)':
@@ -644,57 +614,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Q1 'PMOS_SOT23-3_AO3401A':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767273@PRIMARY.PMOS.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins767273@primary.\pmos.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767273@primary.\pmos.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- Q2 'NMOS_SOT23-3_2N7002':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767454@PRIMARY.NMOS.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins767454@primary.\nmos.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767454@primary.\nmos.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- Q3 'PMOS_SOT23-3_AO3401':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS770498@PRIMARY.PMOS.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins770498@primary.\pmos.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins770498@primary.\pmos.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- Q4 'NMOS_SOT23-3_2N7002':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS770524@PRIMARY.NMOS.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins770524@primary.\nmos.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins770524@primary.\nmos.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- Q5 'NMOS_SOT23-3_2N7002':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742920@PRIMARY.NMOS.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins742920@primary.\nmos.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins742920@primary.\nmos.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- Q6 'NMOS_SOT23-3_2N7002':;
+ Q01 'NMOS_SOT23-3_2N7002':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS743374@PRIMARY.NMOS.NORMAL(CHIPS)':
@@ -704,7 +624,27 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Q7 'NMOS_SOT23-3_2N7002':;
+ Q02 'NMOS_SOT23-3_2N7002':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742920@PRIMARY.NMOS.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins742920@primary.\nmos.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins742920@primary.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q03 'PMOS_SOT23-3_AO3401':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS770498@PRIMARY.PMOS.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins770498@primary.\pmos.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins770498@primary.\pmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q04 'NMOS_SOT23-3_2N7002':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS743601@PRIMARY.NMOS.NORMAL(CHIPS)':
@@ -714,7 +654,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Q8 'NMOS_SOT23-3_2N7002':;
+ Q05 'NMOS_SOT23-3_2N7002':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS770524@PRIMARY.NMOS.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins770524@primary.\nmos.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins770524@primary.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q06 'NMOS_SOT23-3_2N7002':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS774913@PRIMARY.NMOS.NORMAL(CHIPS)':
@@ -724,327 +674,57 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R1 'RES_R0603_100K':;
+ Q07 'NMOS_SOT23-3_2N7002':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS768241@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins768241@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins768241@primary.\res.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767454@PRIMARY.NMOS.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins767454@primary.\nmos.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767454@primary.\nmos.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R10 'RES_R0603_100K':
- ROOM='MP2560';
+ Q08 'PMOS_SOT23-3_AO3401A':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS784189@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins784189@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins784189@primary.\res.normal\(chips)',
- ROOM='MP2560',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767273@PRIMARY.PMOS.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins767273@primary.\pmos.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767273@primary.\pmos.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R11 'RESISTOR_R0603_24K':;
+ Q10 'NPN_SOT23-3_NPN':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426152@DISCRETE.RESISTOR.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins426152@discrete.\resistor.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426152@discrete.\resistor.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS820865@PRIMARY.NPN.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins820865@primary.\npn.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins820865@primary.\npn.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R12 'RES_R0603_10K':
- ROOM='MP2451';
+ Q9 'NPN_SOT23-3_NPN':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS702252@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins702252@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins702252@primary.\res.normal\(chips)',
- ROOM='MP2451',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS817575@PRIMARY.NPN.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins817575@primary.\npn.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins817575@primary.\npn.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R13 'RES_R0603_10K':
- ROOM='MP2451';
+ R01 'RES_R0603_0R':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS770568@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins770568@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins770568@primary.\res.normal\(chips)',
- ROOM='MP2451',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS743802@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins743802@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins743802@primary.\res.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R14 'RES_R0603_100R':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS700317@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins700317@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins700317@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R15 'RES_R0603_100R':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS700355@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins700355@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins700355@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R16 'RES_R0603_10K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679849@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins679849@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679849@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R17 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS684066@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins684066@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins684066@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R18 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS684116@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins684116@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins684116@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R19 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS684166@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins684166@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins684166@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R2 'RES_R0603_100K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767078@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins767078@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767078@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R20 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS684216@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins684216@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins684216@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R21 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS689384@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins689384@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins689384@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R22 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS771721@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins771721@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins771721@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R23 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS686578@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins686578@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins686578@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R24 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS686633@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins686633@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins686633@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R25 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS684898@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins684898@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins684898@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R26 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS691341@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins691341@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins691341@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R27 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS781266@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins781266@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins781266@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R28 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS779762@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins779762@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins779762@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R29 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS691835@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins691835@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins691835@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R3 'RES_R0805_2R':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425910@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins425910@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425910@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R30 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS686936@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins686936@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins686936@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R31 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS685115@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins685115@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins685115@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R32 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS771956@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins771956@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins771956@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R33 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS685165@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins685165@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins685165@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R34 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS685215@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins685215@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins685215@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R35 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS685265@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins685265@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page3_ins685265@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R36 'RES_R0603_10K':
- ROOM='MP2451';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS728675@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins728675@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins728675@primary.\res.normal\(chips)',
- ROOM='MP2451',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R37 'RES_R0603_10K':
- ROOM='MP2451';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS728786@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins728786@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins728786@primary.\res.normal\(chips)',
- ROOM='MP2451',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R38 'RES_R0603_1K':;
+ R02 'RES_R0603_1K':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742835@PRIMARY.RES.NORMAL(CHIPS)':
@@ -1054,29 +734,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R39 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742991@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins742991@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins742991@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R4 'RES_R0603_100K':
- ROOM='MP2560';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425942@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins425942@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425942@primary.\res.normal\(chips)',
- ROOM='MP2560',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R40 'RES_R0603_1K':;
+ R03 'RES_R0603_1K':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742851@PRIMARY.RES.NORMAL(CHIPS)':
@@ -1086,7 +744,17 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R41 'RES_R0603_1K':;
+ R04 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742991@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins742991@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins742991@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R05 'RES_R0603_1K':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS742898@PRIMARY.RES.NORMAL(CHIPS)':
@@ -1096,41 +764,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R42 'RES_R0603_1K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS743709@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins743709@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins743709@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R43 'RES_R0603_51R':
- ROOM='MP2451';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS733836@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins733836@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins733836@primary.\res.normal\(chips)',
- ROOM='MP2451',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R44 'RES_R0603_51R':
- ROOM='MP2451';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS733852@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins733852@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins733852@primary.\res.normal\(chips)',
- ROOM='MP2451',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R45 'RES_R0603_51R':
+ R06 'RES_R0603_51R':
  ROOM='MP2451';
 
 SECTION_NUMBER 1
@@ -1142,7 +776,61 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R46 'RES_R0603_10K':
+ R07 'RES_R0603_51R':
+ ROOM='MP2451';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS733836@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins733836@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins733836@primary.\res.normal\(chips)',
+ ROOM='MP2451',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R08 'RES_R0603_51R':
+ ROOM='MP2451';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS733852@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins733852@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins733852@primary.\res.normal\(chips)',
+ ROOM='MP2451',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R09 'RES_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS693833@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins693833@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins693833@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RES_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS693791@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins693791@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins693791@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS743709@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins743709@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins743709@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES_R0603_10K':
  ROOM='MP2451';
 
 SECTION_NUMBER 1
@@ -1154,47 +842,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R47 'RES_R0603_0R':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS743802@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins743802@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins743802@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R48 'RES_R0603_NF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS763489@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins763489@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins763489@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R49 'RES_R0603_NF':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS763523@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins763523@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins763523@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R5 'RES_R0603_33K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS768281@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins768281@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins768281@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R50 'RES_R0603_100R':;
+ R15 'RES_R0603_100R':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS763567@PRIMARY.RES.NORMAL(CHIPS)':
@@ -1204,7 +852,27 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R51 'RES_R0603_100R':;
+ R16 'RES_R0603_NF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS763489@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins763489@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins763489@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RES_R0603_NF':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS763523@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins763523@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins763523@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RES_R0603_100R':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS763601@PRIMARY.RES.NORMAL(CHIPS)':
@@ -1214,12 +882,354 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R52 'RES_R0603_4.7K':;
+ R19 'RES_R0603_1K':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682263@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins682263@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682263@primary.\res.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803768@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803768@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803768@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RES_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679849@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins679849@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins679849@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS799374@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins799374@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins799374@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS799358@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins799358@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins799358@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS799390@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins799390@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins799390@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS799342@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins799342@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins799342@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RES_R0603_10K':
+ ROOM='MP2451';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS702252@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins702252@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins702252@primary.\res.normal\(chips)',
+ ROOM='MP2451',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RES_R0603_100K':
+ ROOM='MP2560';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425942@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins425942@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425942@primary.\res.normal\(chips)',
+ ROOM='MP2560',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RES_R0603_100K':
+ ROOM='MP2560';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426168@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins426168@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426168@primary.\res.normal\(chips)',
+ ROOM='MP2560',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS802488@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins802488@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins802488@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RES_R0603_10K':
+ ROOM='MP2451';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS770568@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins770568@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins770568@primary.\res.normal\(chips)',
+ ROOM='MP2451',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RES_R0603_100K':
+ ROOM='MP2560';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS784189@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins784189@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins784189@primary.\res.normal\(chips)',
+ ROOM='MP2560',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_R0603_24K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426152@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins426152@discrete.\resistor.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426152@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RES_R0603_200K':
+ ROOM='MP2560';
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426096@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins426096@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426096@primary.\res.normal\(chips)',
+ ROOM='MP2560',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RES_R0603_30K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS773128@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins773128@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins773128@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS799081@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins799081@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins799081@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803660@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803660@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803660@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803704@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803704@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803704@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803720@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803720@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803720@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS803736@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins803736@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins803736@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS798558@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins798558@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins798558@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'RES_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682527@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins682527@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682527@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'RES_R0805_2R':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425910@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins425910@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425910@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS798574@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins798574@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins798574@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'RES_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS774949@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins774949@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins774949@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS798542@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins798542@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins798542@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS798977@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins798977@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins798977@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'RES_R2010_22R':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682447@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins682447@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682447@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'RES_R2010_22R':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682373@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins682373@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682373@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'RES_R0603_100R':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS700317@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins700317@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins700317@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RES_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767078@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins767078@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767078@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS802180@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins802180@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins802180@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RES_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767118@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins767118@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767118@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'RES_R0603_20K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS773112@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins773112@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins773112@primary.\res.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1234,99 +1244,27 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R54 'RES_R2010_22R':;
+ R54 'RES_R0603_4.7K':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682373@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins682373@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682373@primary.\res.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682263@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins682263@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682263@primary.\res.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R55 'RES_R2010_22R':;
+ R55 'RES_R0603_100R':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682447@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins682447@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682447@primary.\res.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS700355@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins700355@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page3_ins700355@primary.\res.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R56 'RES_R0603_4.7K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682527@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins682527@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins682527@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R57 'RES_R0603_10K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS774949@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins774949@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins774949@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R58 'RES_R0603_20K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS773112@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins773112@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins773112@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R59 'RES_R0603_30K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS773128@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins773128@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins773128@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R6 'RES_R0603_200K':
- ROOM='MP2560';
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426096@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins426096@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426096@primary.\res.normal\(chips)',
- ROOM='MP2560',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R60 'RES_R0603_10K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS693791@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins693791@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins693791@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R61 'RES_R0603_10K':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS693833@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins693833@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins693833@primary.\res.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- R7 'RES_R0603_10K':
+ R56 'RES_R0603_10K':
  ROOM='MP2451';
 
 SECTION_NUMBER 1
@@ -1338,29 +1276,87 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R8 'RES_R0603_10K':;
+ R57 'RES_R0603_1K':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS767118@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins767118@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins767118@primary.\res.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS802603@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins802603@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins802603@primary.\res.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- R9 'RES_R0603_100K':
- ROOM='MP2560';
+ R58 'RES_R0603_100K':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS426168@PRIMARY.RES.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins426168@primary.\res.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins426168@primary.\res.normal\(chips)',
- ROOM='MP2560',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS768241@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins768241@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins768241@primary.\res.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- SW1 'SW-PB-2_SW-3X6_SW-PB-2':;
+ R59 'RES_R0603_33K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS768281@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins768281@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins768281@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS802254@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins802254@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins802254@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS817365@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins817365@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins817365@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'RES_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS821095@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins821095@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins821095@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS821343@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins821343@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins821343@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'RES_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS822537@PRIMARY.RES.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins822537@primary.\res.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins822537@primary.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW01 'SW-PB-2_SW-3X6_SW-PB-2':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679865@PRIMARY.SW-PB-2.NORMAL(CHIPS)':
@@ -1370,47 +1366,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TP1 'TP_TP1_TP':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS770166@PRIMARY.TP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins770166@primary.\tp.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins770166@primary.\tp.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP2 'TP_TP1_TP':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS764848@PRIMARY.TP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins764848@primary.\tp.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins764848@primary.\tp.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP3 'TP_TP1_TP':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425674@PRIMARY.TP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins425674@primary.\tp.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425674@primary.\tp.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP4 'TP_TP1_TP':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675809@PRIMARY.TP.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins675809@primary.\tp.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins675809@primary.\tp.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP5 'TP_TP1_TP':;
+ TP01 'TP_TP1_TP':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS771343@PRIMARY.TP.NORMAL(CHIPS)':
@@ -1420,17 +1376,77 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U1 'MP2560_SOIC-8P_MP2560':;
+ TP02 'TP_TP1_TP':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425700@PRIMARY.MP2560.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425700@primary.\mp2560.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675809@PRIMARY.TP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins675809@primary.\tp.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins675809@primary.\tp.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- U2 'RT9193_SOT23-5_RT9193-33GB':;
+ TP03 'TP_TP1_TP':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425674@PRIMARY.TP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins425674@primary.\tp.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425674@primary.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP04 'TP_TP1_TP':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS770166@PRIMARY.TP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins770166@primary.\tp.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins770166@primary.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP05 'TP_TP1_TP':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS764848@PRIMARY.TP.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins764848@primary.\tp.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins764848@primary.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U01 'SIM800C_P0V0_SIM800C_P0V0_SIM80':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS763417@MODULE.SIM800C_P0V0.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins763417@module.\sim800c_p0v0.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins763417@module.\sim800c_p0v0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U02 'SIM800C_SIM800C_SIM800C':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS746386@PRIMARY.SIM800C.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page4_ins746386@primary.\sim800c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U03 'W25Q16_SOIC-8_P25Q40':;
+
+SECTION_NUMBER 1
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS693733@PRIMARY.W25Q16.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page5_ins693733@primary.\w25q16.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U04 'RT9193_SOT23-5_RT9193-33GB':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS675843@PRIMARY.RT9193.NORMAL(CHIPS)':
@@ -1440,7 +1456,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U3 'STM32F030C8_LQFP-48_(S1+S2)_STM':;
+ U05 'STM32F030C8_LQFP-48_(S1+S2)_STM':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS680375@PRIMARY.STM32F030C8A.NORMAL(CHIPS)':
@@ -1457,27 +1473,17 @@ SECTION_NUMBER 2
  SECTION='B';
 
 PART_NAME
- U4 'SIM800C_SIM800C_SIM800C':;
+ U06 'MP2560_SOIC-8P_MP2560':;
 
 SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS746386@PRIMARY.SIM800C.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins746386@primary.\sim800c.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins746386@primary.\sim800c.normal\(chips)',
+ '@MODBUSDTU.SCHEMATIC1(SCH_1):INS425700@PRIMARY.MP2560.NORMAL(CHIPS)':
+ C_PATH='@modbusdtu.schematic1(sch_1):ins425700@primary.\mp2560.normal\(chips)',
+ P_PATH='@modbusdtu.schematic1(sch_1):page2_ins425700@primary.\mp2560.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- U5 'SIM800C_P0V0_SIM800C_P0V0_SIM80':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS763417@MODULE.SIM800C_P0V0.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins763417@module.\sim800c_p0v0.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page4_ins763417@module.\sim800c_p0v0.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U6 'SP485_SOIC-8_SP3485':;
+ U07 'SP485_SOIC-8_SP3485':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS682307@PRIMARY.SP485.NORMAL(CHIPS)':
@@ -1487,17 +1493,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U7 'W25Q16_SOIC-8_P25Q40':;
-
-SECTION_NUMBER 1
- '@MODBUSDTU.SCHEMATIC1(SCH_1):INS693733@PRIMARY.W25Q16.NORMAL(CHIPS)':
- C_PATH='@modbusdtu.schematic1(sch_1):ins693733@primary.\w25q16.normal\(chips)',
- P_PATH='@modbusdtu.schematic1(sch_1):page5_ins693733@primary.\w25q16.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U8 'EL354_SOP-4_EL354':;
+ U08 'EL354_SOP-4_EL354':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS773162@PRIMARY.EL354.NORMAL(CHIPS)':
@@ -1507,7 +1503,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Y1 'CRYSTAL-1_SMD3225-4_12MHZ':;
+ Y01 'CRYSTAL-1_SMD3225-4_12MHZ':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS679719@PRIMARY.CRYSTAL-1.NORMAL(CHIPS)':
@@ -1517,7 +1513,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- Y2 'CRYSTAL_SMD3215_32.768K':;
+ Y02 'CRYSTAL_SMD3215_32.768K':;
 
 SECTION_NUMBER 1
  '@MODBUSDTU.SCHEMATIC1(SCH_1):INS680942@PRIMARY.CRYSTAL.NORMAL(CHIPS)':
