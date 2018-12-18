@@ -225,24 +225,33 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\modbusdtu.dsn")
-      (Path "Design Resources" ".\modbusdtu.dsn" "SCHEMATIC1")
       (Path "Outputs")
       (Select "Design Resources" ".\modbusdtu.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 0 0 0"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 977"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 25 1354 25 549")
-        (Scroll "470 0")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1383 50 578")
+        (Scroll "-58 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\KMS\2018\MODBUSDTU\HARDWARE\MODBUSDTU.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02_MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 75 1458 75 546")
+        (Scroll "480 660")
         (Zoom "200")
         (Occurrence "/"))
       (Path "D:\PROJECTS\KMS\2018\MODBUSDTU\HARDWARE\MODBUSDTU.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "03_SIM800C")))
+      (Page "01_Power")))
   (LastUsedLibraryBrowseDirectory "D:\cadenceLib\part")
   (ISPCBBASICLICENSE "false"))

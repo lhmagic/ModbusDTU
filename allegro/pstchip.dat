@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Dec-18-2018 at 09:54:13}
+{ Using PSTWRITER 17.2.0 d001Dec-19-2018 at 09:32:54}
 primitive 'ANT_RF-SMA_ANT';
   pin
     'ANT':
@@ -90,7 +90,7 @@ primitive 'CAP NP_C0603_10PF';
     VALUE='10pF';
   end_body;
 end_primitive;
-primitive 'CAP NP_C0603_2.2UF';
+primitive 'CAP NP_C0603_2.2UF/16V';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -102,7 +102,7 @@ primitive 'CAP NP_C0603_2.2UF';
   body
     PART_NAME='CAP NP';
     JEDEC_TYPE='C0603';
-    VALUE='2.2uF';
+    VALUE='2.2uF/16V';
   end_body;
 end_primitive;
 primitive 'CAP POL_CAPE6X2R50_100UF/16V';
@@ -133,21 +133,6 @@ primitive 'CAP NP_C0805_10UF/10V';
     PART_NAME='CAP NP';
     JEDEC_TYPE='C0805';
     VALUE='10uF/10v';
-  end_body;
-end_primitive;
-primitive 'CAP NP_C0603_2.2UF/16V';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='C0603';
-    VALUE='2.2uF/16V';
   end_body;
 end_primitive;
 primitive 'CAP NP_C0603_150PF';
@@ -594,24 +579,6 @@ primitive 'NMOS_SOT23-3_2N7002';
     VALUE='2N7002';
   end_body;
 end_primitive;
-primitive 'PMOS_SOT23-3_AO3401';
-  pin
-    'GATE':
-      PIN_NUMBER='(1)';
-      INPUT_LOAD='(*)';
-    'DRAIN':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'SOURCE':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='PMOS';
-    JEDEC_TYPE='SOT23-3';
-    VALUE='AO3401';
-  end_body;
-end_primitive;
 primitive 'PMOS_SOT23-3_AO3401A';
   pin
     'GATE':
@@ -630,7 +597,7 @@ primitive 'PMOS_SOT23-3_AO3401A';
     VALUE='AO3401A';
   end_body;
 end_primitive;
-primitive 'NPN_SOT23-3_NPN';
+primitive 'NPN_SOT23-3_MMBT5551';
   pin
     'B':
       PIN_NUMBER='(1)';
@@ -645,7 +612,7 @@ primitive 'NPN_SOT23-3_NPN';
   body
     PART_NAME='NPN';
     JEDEC_TYPE='SOT23-3';
-    VALUE='NPN';
+    VALUE='MMBT5551';
   end_body;
 end_primitive;
 primitive 'RES_R0603_0R';
